@@ -7,3 +7,7 @@ I created an H1 header
 ``` Rscript
 group_sym<-as.data.frame(table(unlist(AN_female)))
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
